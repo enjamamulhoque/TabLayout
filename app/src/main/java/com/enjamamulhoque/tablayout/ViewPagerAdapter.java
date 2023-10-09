@@ -1,4 +1,4 @@
-package com.enjamamulhoque.tablayoutfeature;
+package com.enjamamulhoque.tablayout;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;

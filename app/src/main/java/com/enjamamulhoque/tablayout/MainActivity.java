@@ -1,4 +1,4 @@
-package com.enjamamulhoque.tablayoutfeature;
+package com.enjamamulhoque.tablayout;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.viewpager2.widget.ViewPager2;

@@ -1,4 +1,4 @@
-package com.enjamamulhoque.tablayoutfeature;
+package com.enjamamulhoque.tablayout;
 
 import org.junit.Test;
 
